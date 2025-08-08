@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="red_outbreak.png">
+<SubTexture name="idle0000" x="470" y="0" width="461" height="410" frameX="-152" frameY="-148" frameWidth="640" frameHeight="640" />
+<SubTexture name="idle0001" x="931" y="401" width="461" height="400" frameX="-152" frameY="-158" frameWidth="640" frameHeight="640" />
+<SubTexture name="idle0002" x="478" y="813" width="461" height="391" frameX="-152" frameY="-167" frameWidth="640" frameHeight="640" />
+<SubTexture name="idle0003" x="1863" y="766" width="461" height="382" frameX="-152" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="idle0004" x="1863" y="766" width="461" height="382" frameX="-152" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="deft0000" x="1863" y="1148" width="462" height="382" frameX="-140" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="deft0001" x="0" y="1603" width="463" height="382" frameX="-145" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="deft0002" x="1400" y="390" width="461" height="387" frameX="-147" frameY="-171" frameWidth="640" frameHeight="640" />
+<SubTexture name="deft0003" x="463" y="1603" width="461" height="382" frameX="-152" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="dight0000" x="935" y="1213" width="473" height="383" frameX="-152" frameY="-175" frameWidth="640" frameHeight="640" />
+<SubTexture name="dight0001" x="1863" y="0" width="478" height="383" frameX="-150" frameY="-174" frameWidth="640" frameHeight="640" />
+<SubTexture name="dight0002" x="1400" y="0" width="463" height="390" frameX="-154" frameY="-168" frameWidth="640" frameHeight="640" />
+<SubTexture name="bown0000" x="480" y="411" width="449" height="355" frameX="-152" frameY="-203" frameWidth="640" frameHeight="640" />
+<SubTexture name="bown0001" x="1851" y="1603" width="460" height="371" frameX="-152" frameY="-187" frameWidth="640" frameHeight="640" />
+<SubTexture name="bown0002" x="1385" y="1603" width="466" height="380" frameX="-152" frameY="-178" frameWidth="640" frameHeight="640" />
+<SubTexture name="bown0003" x="924" y="1603" width="461" height="382" frameX="-152" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="dup0000" x="931" y="0" width="469" height="401" frameX="-152" frameY="-157" frameWidth="640" frameHeight="640" />
+<SubTexture name="dup0001" x="0" y="1213" width="471" height="390" frameX="-152" frameY="-168" frameWidth="640" frameHeight="640" />
+<SubTexture name="dup0002" x="471" y="1213" width="464" height="387" frameX="-152" frameY="-171" frameWidth="640" frameHeight="640" />
+<SubTexture name="left_miss0000" x="1400" y="777" width="463" height="387" frameX="-137" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="left_miss0001" x="939" y="813" width="459" height="386" frameX="-141" frameY="-177" frameWidth="640" frameHeight="640" />
+<SubTexture name="right_miss0000" x="0" y="813" width="478" height="400" frameX="-141" frameY="-169" frameWidth="640" frameHeight="640" />
+<SubTexture name="right_miss0001" x="0" y="411" width="480" height="402" frameX="-136" frameY="-167" frameWidth="640" frameHeight="640" />
+<SubTexture name="down_miss0000" x="460" y="1985" width="460" height="342" frameX="-137" frameY="-231" frameWidth="640" frameHeight="640" />
+<SubTexture name="down_miss0001" x="0" y="1985" width="460" height="353" frameX="-137" frameY="-220" frameWidth="640" frameHeight="640" />
+<SubTexture name="up_miss0000" x="0" y="0" width="470" height="411" frameX="-148" frameY="-160" frameWidth="640" frameHeight="640" />
+<SubTexture name="up_miss0001" x="1863" y="383" width="470" height="383" frameX="-147" frameY="-183" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

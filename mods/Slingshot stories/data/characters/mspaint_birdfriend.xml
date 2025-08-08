@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" y="200" sprite="mspaint_birdfriend" scale="0.7" flipX="true" camy="50" isPlayer="true" icon="birdfriend" color="#30B0D1" gameOverChar="bf-pixel-dead">
+	<anim name="idle" anim="idle" x="0" y="0" fps="13" loop="false"/>
+	<anim name="singLEFT" anim="deft" x="-1" y="0" fps="13" loop="false"/>
+	<anim name="singDOWN" anim="bown" x="0" y="0" fps="13" loop="false"/>
+	<anim name="singUP" anim="dup" x="0" y="0" fps="13" loop="false"/>
+	<anim name="singRIGHT" anim="dight" x="0" y="0" fps="13" loop="false"/>
+	<anim name="singUPmiss" anim="up_miss" x="0" y="0" fps="13" loop="false"/>
+	<anim name="singLEFTmiss" anim="left_miss" x="-1" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="right_miss" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="down_miss" x="0" y="0" fps="24" loop="false"/>
+</character>

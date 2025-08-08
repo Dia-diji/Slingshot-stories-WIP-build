@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfmad.png">
+<SubTexture name="idle0000" x="0" y="0" width="720" height="647" frameX="-4" frameY="-3" frameWidth="726" frameHeight="671" />
+<SubTexture name="idle0001" x="720" y="0" width="720" height="620" frameX="-4" frameY="-30" frameWidth="726" frameHeight="671" />
+<SubTexture name="idle0002" x="1440" y="0" width="722" height="613" frameX="-4" frameY="-38" frameWidth="726" frameHeight="671" />
+<SubTexture name="idle0003" x="0" y="647" width="720" height="612" frameX="-4" frameY="-38" frameWidth="726" frameHeight="671" />
+<SubTexture name="bown0000" x="720" y="647" width="708" height="550" frameX="-4" frameY="-100" frameWidth="726" frameHeight="671" />
+<SubTexture name="bown0001" x="1428" y="647" width="719" height="583" frameX="0" frameY="0" frameWidth="719" frameHeight="583" />
+<SubTexture name="deft0000" x="0" y="1259" width="714" height="612" frameX="0" frameY="-38" frameWidth="735" frameHeight="671" />
+<SubTexture name="deft0001" x="714" y="1259" width="699" height="624" frameX="0" frameY="-26" frameWidth="747" frameHeight="671" />
+<SubTexture name="dight0000" x="1413" y="1259" width="747" height="612" frameX="-15" frameY="-36" frameWidth="762" frameHeight="671" />
+<SubTexture name="dight0001" x="0" y="1883" width="755" height="612" frameX="-8" frameY="-36" frameWidth="763" frameHeight="671" />
+<SubTexture name="dup0000" x="755" y="1883" width="720" height="703" frameX="-5" frameY="0" frameWidth="726" frameHeight="724" />
+<SubTexture name="dup0001" x="1475" y="1883" width="719" height="677" frameX="-4" frameY="0" frameWidth="726" frameHeight="698" />
+<SubTexture name="down_miss0000" x="0" y="2586" width="722" height="524" frameX="0" frameY="-113" frameWidth="730" frameHeight="671" />
+<SubTexture name="left_miss0000" x="722" y="2586" width="750" height="603" frameX="0" frameY="-47" frameWidth="763" frameHeight="671" />
+<SubTexture name="right_miss0000" x="1472" y="2586" width="700" height="659" frameX="-47" frameY="0" frameWidth="747" frameHeight="671" />
+<SubTexture name="up_miss0000" x="0" y="3245" width="746" height="644" frameX="0" frameY="0" frameWidth="761" frameHeight="703" />
+</TextureAtlas>

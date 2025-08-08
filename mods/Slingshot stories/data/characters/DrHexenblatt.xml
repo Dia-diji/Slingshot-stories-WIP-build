@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="-237" sprite="DrHexenblatt" scale="0.6" antialiasing="false" icon="alex" color="#C2C2C2" imagePath="stinkystevechilderensbook.png">
+	<anim name="idle" anim="idle" x="0" y="0" fps="13" loop="false"/>
+	<anim name="singLEFT" anim="left" x="0" y="0" fps="13" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="-11" y="0" fps="13" loop="false"/>
+	<anim name="singUP" anim="up" x="89" y="1" fps="13" loop="false"/>
+	<anim name="singDOWN" anim="down" x="0" y="-1" fps="13" loop="false"/>
+</character>

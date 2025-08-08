@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"HARD"
+	],
+	"icon": "face",
+	"coopAllowed": false,
+	"name": "Prototype",
+	"color": -7179779,
+	"customValues": {},
+	"stepsPerBeat": 4,
+	"displayName": "Prototype",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 125
+}

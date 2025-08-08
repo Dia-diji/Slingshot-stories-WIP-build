@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="alexland" folder="stages/alexland/" startCamPosY="600" startCamPosX="1000">
+	<sprite name="ref"               x="-300" y="-500"   width="2500" 	height="2500"	sprite="ref"       scroll="0.9"  />
+	<sprite name="ground"               x="-300" y="-500"   width="2500" 	height="2500"	sprite="ground"       scroll="0.9"  />
+	<girlfriend />
+	<dad 	x="0" y="500"/>
+	<boyfriend x="900" y="250"	size="90"/>
+<sprite name="front"               x="-300" y="-500"   width="2500" 	height="2500"	sprite="front"       scroll="0.9"  />
+</stage>

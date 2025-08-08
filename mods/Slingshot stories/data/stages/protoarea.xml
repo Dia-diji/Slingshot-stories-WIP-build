@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="1000" startCamPosY="600" folder="stages/protoarea/" zoom="0.9" name="BG">
+	<sprite x="-16.272130375249" y="174.538376399576" type="none" angle="0.36" name="bg" sprite="bg" scroll="0.9" scalex="2.13265140121229" scaley="1.83845782831183"/>
+	<girlfriend/>
+	<dad x="-1.27096200230881e-09" y="225.16102240456"/>
+	<boyfriend x="887.941312535364" y="255.285364955568"/>
+	<sprite x="-300" scroll="0.9" sprite="front" y="-500" name="front"/>
+</stage>

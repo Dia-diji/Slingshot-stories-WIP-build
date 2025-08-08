@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="stinkybeach" folder="stages/stinkybeach/" startCamPosY="0" startCamPosX="0">
+	<sprite name="beach"               x="-0" y="-0"   sprite="beach"       scroll="0.9" />
+	<girlfriend />
+	<dad />
+	<boyfriend />
+	<sprite name="t"               x="0" y="0"   sprite="t"       scroll="0.9" />
+</stage>
