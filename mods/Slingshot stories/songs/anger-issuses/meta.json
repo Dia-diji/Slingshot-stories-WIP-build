@@ -1,1 +1,15 @@
-null
+{
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"HARD"
+	],
+	"name": "anger-issuses",
+	"coopAllowed": false,
+	"color": -7179779,
+	"stepsPerBeat": 4,
+	"displayName": "anger-issuses",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 100
+}

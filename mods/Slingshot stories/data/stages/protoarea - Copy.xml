@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="1000" startCamPosY="600" folder="stages/therapy/" zoom="0.9" name="BG">
+	<sprite x="-442.720086780625" y="174.116659838942" type="none" angle="0.05" name="room" sprite="room" scroll="0.9" scalex="1.32156573658721" scaley="1.34013237288917"/>
+	<girlfriend scaley="0"/>
+	<dad scalex="0.984640396063252" x="898.990049327943" scaley="1.03655452088946" y="369.92998115827"/>
+	<boyfriend x="84.5441643724528" angle="1.10006629654069" y="191.616826581995"/>
+	<sprite x="130.705087652504" scroll="0" sprite="cn" y="267.219775252895" scalex="0.185651293798857" angle="-0.29" scaley="0.167662208279026" name="cn"/>
+</stage>

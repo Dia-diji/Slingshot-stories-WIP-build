@@ -1,10 +1,10 @@
 <!DOCTYPE codename-engine-character>
-<character y="187" scale="0.6" camy="50" isPlayer="true" icon="red_outbreak" color="#A71E24" gameOverChar="bf-pixel-dead">
+<character y="200" scale="0.75" flipX="true" camx="200" isPlayer="true" color="#A80000" gameOverChar="bf-pixel-dead">
 	<anim name="idle" anim="idle" fps="13"/>
-	<anim name="singLEFT" anim="dight" x="27" y="-2" fps="13"/>
+	<anim name="singLEFT" anim="deft" x="27" y="-2" fps="13"/>
 	<anim name="singDOWN" anim="bown" x="-4.34" y="-66.66" fps="13" indices="1,1"/>
 	<anim name="singUP" anim="dup" y="32" fps="13"/>
-	<anim name="singRIGHT" anim="deft" x="-64" fps="13"/>
+	<anim name="singRIGHT" anim="dight" x="-64" fps="13"/>
 	<anim name="singUPmiss" anim="up_miss" fps="13"/>
 	<anim name="singLEFTmiss" anim="left_miss" x="-1"/>
 	<anim name="singRIGHTmiss" anim="right_miss"/>
